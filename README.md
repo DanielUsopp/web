@@ -1,2 +1,0 @@
-# web
-Hoja De Vida
